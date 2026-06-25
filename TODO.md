@@ -31,9 +31,9 @@ Task checklist for the Gmail & Calendar agent (`danitzik`). Grouped by phase.
 
 ## Testing (acceptance criteria)
 - [x] Seed: meeting request with time
-- [ ] Seed: meeting request without time
+- [x] Seed: meeting request without time
 - [x] Seed: non-meeting email (must be ignored)
-- [ ] Optional seed: formal invite (must be filtered)
+- [x] Optional seed: formal invite (must be filtered)
 - [x] Free slot → event created
 - [x] Busy slot → correct reply sent
 - [x] Two-email-types distinction demonstrably works
