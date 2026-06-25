@@ -21,7 +21,7 @@ all Gmail/Calendar actions run locally via OAuth2.
    reschedule.
 
 It runs as a manually-invoked script — no daemon, no scheduler required.
-** The idea is to invoke it as scheduled job every 48H
+** The idea is to invoke it as scheduled job every 48H **
 
 ---
 
