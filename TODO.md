@@ -27,7 +27,7 @@ Task checklist for the Gmail & Calendar agent (`danitzik`). Grouped by phase.
 ## Scheduling rule (PRD.md §5)
 - [x] Default duration 1 hour
 - [x] Specific time busy → reply echoes requested time
-- [ ] No time + day full → reply suggests another day
+- [x] No time + day full → reply suggests another day
 
 ## Testing (acceptance criteria)
 - [x] Seed: meeting request with time
